@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.number {
+  height: 50px;
+  width: 100%;
+  font-size: 50px;
+  font-family: sans-serif;
+
+}
